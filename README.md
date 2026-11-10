@@ -1,6 +1,6 @@
 # CGCNN: from formation energy to battery voltage
  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/cgcnn-formation-energy-to-voltage/blob/main/notebooks/cgcnn_formation_energy_to_voltage.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Huzaifaahmad001/cgcnn-formation-energy-to-voltage/blob/main/notebooks/cgcnn_formation_energy_to_voltage.ipynb)
  
 Does a crystal-graph neural network's formation-energy accuracy survive the
 subtraction that a lithium-ion cathode voltage requires?
