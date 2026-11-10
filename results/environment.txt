@@ -1,0 +1,11 @@
+python 3.13.18
+torch 2.14.1+cpu
+numpy 2.4.6
+pandas 2.2.3
+scipy 1.16.3
+scikit-learn 1.6.1
+matplotlib 3.10.0
+gpu: none in this session
+CGCNN repository commit: f42ab233c4ee0c416879d6bc2d22a264418413ad
+Materials Project database release: 2026.09.28 (printed by Section 7)
+note: packages were installed unpinned; these are the versions in the session that ran this cell
